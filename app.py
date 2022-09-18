@@ -1,6 +1,4 @@
 import streamlit as st
-import string
-import numpy as np
 import pandas as pd
 import requests
 
